@@ -1,0 +1,9 @@
+D:\VBWFApp\VBWFApp\bin\Debug\VBWFApp.exe
+D:\VBWFApp\VBWFApp\bin\Debug\VBWFApp.pdb
+D:\VBWFApp\VBWFApp\bin\Debug\VBWFApp.xml
+D:\VBWFApp\VBWFApp\obj\x86\Debug\VBWFApp.Form1.resources
+D:\VBWFApp\VBWFApp\obj\x86\Debug\VBWFApp.Resources.resources
+D:\VBWFApp\VBWFApp\obj\x86\Debug\VBWFApp.vbproj.GenerateResource.Cache
+D:\VBWFApp\VBWFApp\obj\x86\Debug\VBWFApp.exe
+D:\VBWFApp\VBWFApp\obj\x86\Debug\VBWFApp.xml
+D:\VBWFApp\VBWFApp\obj\x86\Debug\VBWFApp.pdb

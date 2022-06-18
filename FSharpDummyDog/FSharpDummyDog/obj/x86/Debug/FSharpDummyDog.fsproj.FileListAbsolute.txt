@@ -1,0 +1,6 @@
+D:\FSharpDummyDog\FSharpDummyDog\bin\Debug\FSharpDummyDog.XML
+D:\FSharpDummyDog\FSharpDummyDog\bin\Debug\FSharpDummyDog.exe
+D:\FSharpDummyDog\FSharpDummyDog\bin\Debug\FSharpDummyDog.pdb
+D:\FSharpDummyDog\FSharpDummyDog\obj\x86\Debug\FSharpDummyDog.fsprojResolveAssemblyReference.cache
+D:\FSharpDummyDog\FSharpDummyDog\obj\x86\Debug\FSharpDummyDog.exe
+D:\FSharpDummyDog\FSharpDummyDog\obj\x86\Debug\FSharpDummyDog.pdb

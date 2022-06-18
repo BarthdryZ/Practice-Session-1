@@ -1,0 +1,12 @@
+D:\myLearningVB\myLearningVB\bin\Debug\myLearningVB.exe
+D:\myLearningVB\myLearningVB\bin\Debug\myLearningVB.pdb
+D:\myLearningVB\myLearningVB\bin\Debug\myLearningVB.xml
+D:\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.Form1.resources
+D:\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.Resources.resources
+D:\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.vbproj.GenerateResource.Cache
+D:\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.exe
+D:\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.xml
+D:\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.pdb
+D:\Barath Programming\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.exe
+D:\Barath Programming\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.xml
+D:\Barath Programming\myLearningVB\myLearningVB\obj\x86\Debug\myLearningVB.pdb
